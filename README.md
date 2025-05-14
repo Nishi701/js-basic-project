@@ -10,23 +10,22 @@ Welcome to my collection of **12 beginner-friendly JavaScript projects**! These 
 
 ---
 
-## 🛠️ Projects Included
+## 🚀 Live Demo Links (Hosted on GitHub Pages)
 
-| Project                      | Live URL Example                                                         |
-| ---------------------------- | ------------------------------------------------------------------------ |
-| 🎨 Background Color Switcher | `https://nishi701.github.io/js-basic-project/background-color-switcher/` |
-| 🧮 BMI Calculator            | `https://nishi701.github.io/js-basic-project/bmi-calculator/`            |
-| ⏰ Digital Clock              | `https://nishi701.github.io/js-basic-project/digital-clock/`             |
-| ➕ Counter App                | `https://nishi701.github.io/js-basic-project/counter-app/`               |
-| 💰 Tip Calculator            | `https://nishi701.github.io/js-basic-project/tip-calculator/`            |
-| 📝 Random Quote Generator    | `https://nishi701.github.io/js-basic-project/random-quote-generator/`    |
-| ✅ To-Do List (Mini)          | `https://nishi701.github.io/js-basic-project/todo-list-mini/`            |
-| 🖼️ Image Slider             | `https://nishi701.github.io/js-basic-project/image-slider/`              |
-| 🛡️ Form Validator           | `https://nishi701.github.io/js-basic-project/form-validator/`            |
-| 📂 Accordion Menu            | `https://nishi701.github.io/js-basic-project/accordion-menu/`            |
-| 🌗 Theme Toggle              | `https://nishi701.github.io/js-basic-project/theme-toggle/`              |
-| 🎧 Music Player UI           | `https://nishi701.github.io/js-basic-project/music-player-ui/`           |
-
+| # | Project Name | Live Demo |
+|--:|--------------|-----------|
+| 1️⃣ | 🎨 Background Color Switcher | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/background-color-switcher/) |
+| 2️⃣ | 🧮 BMI Calculator | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/bmi-calculator/) |
+| 3️⃣ | ⏰ Digital Clock | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/digital-clock/) |
+| 4️⃣ | ➕ Counter App | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/counter-app/) |
+| 5️⃣ | 💰 Tip Calculator | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/tip-calculator/) |
+| 6️⃣ | 📝 Random Quote Generator | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/random-quote-generator/) |
+| 7️⃣ | ✅ To-Do List (Mini) | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/todo-list-mini/) |
+| 8️⃣ | 🖼️ Image Slider | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/image-slider/) |
+| 9️⃣ | 🛡️ Form Validator | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/form-validator/) |
+| 🔟 | 📂 Accordion Menu | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/accordion-menu/) |
+| 1️⃣1️⃣ | 🌗 Light/Dark Theme Toggle | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/theme-toggle/) |
+| 1️⃣2️⃣ | 🎧 Basic Music Player UI | [Live Demo 🔗](https://nishi701.github.io/js-basic-project/music-player-ui/) |
 
 ---
 
