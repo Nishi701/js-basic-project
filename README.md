@@ -12,20 +12,21 @@ Welcome to my collection of **12 beginner-friendly JavaScript projects**! These 
 
 ## 🛠️ Projects Included
 
-| #  | Project                         | Folder Name                |
-|----|----------------------------------|----------------------------|
-| 1  | 🎨 Background Color Switcher     | `background-color-switcher` |
-| 2  | 🧮 BMI Calculator                 | `bmi-calculator`           |
-| 3  | ⏰ Digital Clock                 | `digital-clock`            |
-| 4  | ➕ Counter App                   | `counter-app`              |
-| 5  | 💰 Tip Calculator                | `tip-calculator`           |
-| 6  | 📝 Random Quote Generator        | `random-quote-generator`   |
-| 7  | ✅ To-Do List (Mini Version)     | `todo-list-mini`           |
-| 8  | 🖼️ Image Slider                  | `image-slider`             |
-| 9  | 🛡️ Form Validator               | `form-validator`           |
-| 10 | 📂 Accordion Menu                | `accordion-menu`           |
-| 11 | 🌗 Light/Dark Theme Toggle       | `theme-toggle`             |
-| 12 | 🎧 Basic Music Player UI         | `music-player-ui`          |
+| Project                      | Live URL Example                                                         |
+| ---------------------------- | ------------------------------------------------------------------------ |
+| 🎨 Background Color Switcher | `https://nishi701.github.io/js-basic-project/background-color-switcher/` |
+| 🧮 BMI Calculator            | `https://nishi701.github.io/js-basic-project/bmi-calculator/`            |
+| ⏰ Digital Clock              | `https://nishi701.github.io/js-basic-project/digital-clock/`             |
+| ➕ Counter App                | `https://nishi701.github.io/js-basic-project/counter-app/`               |
+| 💰 Tip Calculator            | `https://nishi701.github.io/js-basic-project/tip-calculator/`            |
+| 📝 Random Quote Generator    | `https://nishi701.github.io/js-basic-project/random-quote-generator/`    |
+| ✅ To-Do List (Mini)          | `https://nishi701.github.io/js-basic-project/todo-list-mini/`            |
+| 🖼️ Image Slider             | `https://nishi701.github.io/js-basic-project/image-slider/`              |
+| 🛡️ Form Validator           | `https://nishi701.github.io/js-basic-project/form-validator/`            |
+| 📂 Accordion Menu            | `https://nishi701.github.io/js-basic-project/accordion-menu/`            |
+| 🌗 Theme Toggle              | `https://nishi701.github.io/js-basic-project/theme-toggle/`              |
+| 🎧 Music Player UI           | `https://nishi701.github.io/js-basic-project/music-player-ui/`           |
+
 
 ---
 
