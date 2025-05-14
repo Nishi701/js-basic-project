@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+.boxes{
+    height: 100px;
+    width: 100px;
+    display: inline-flex;
+    border-radius: 50px;
+    border: 1px solid black;
+    margin: 10px;
+}
+#red{background-color: red;}
+#blue{background-color: blue;}
+#green{background-color: green;}
+#yellow{background-color: yellow;}
+#black{background-color: black;}
+#gray{background-color: gray;}

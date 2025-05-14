@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI | Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="conatiner">
+        <h1>Body Mass Index (BMI) Calculator</h1>
+        <h4>Enter you Height and Weight to Calculate you Body Mass Index.</h4>
+        <form>
+            <p><span>Height (cm): </span><input type="text" id="height"></p>
+            <p><span>Weight (kg): </span><input type="text" id="weight"></p>
+            <button type="submit">Calculate</button>
+            <div id="results"></div>
+        </form>
+
+        <div class="range">
+            <h2>BMI Ranges</h2>
+            <p>under 18.5  'underweight'.</p>
+            <p>between 18.5 and 24.9  'healthy range'.</p>
+            <p>between 25 and 29.9  'overweight'.</p>
+        </div>
+    </div>
+</body>
+<script src="logic.js"></script>
+</html>

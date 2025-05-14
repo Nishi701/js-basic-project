@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#counter{
+    display: block;
+    font-size: 30px;
+}
+#increase{
+    background-color: rgb(27, 226, 27);
+    font-size: 30px;
+    font-weight: bold;
+}
+#decrease{
+    background-color: rgb(243, 46, 46);
+    font-size: 30px;
+    font-weight: bold;
+}
+#reset{
+    font-size: 30px;
+    font-weight: bold;
+}
+
