@@ -1,0 +1,49 @@
+body{
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+    background-color: #fff;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px 30px;
+    box-shadow: 0, 0, 10 rgb(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+input{
+    width: 100%;
+    padding: 7px;
+    margin: 6px 0px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+button{
+    width: 45%;
+    padding: 10px;
+    margin: 6px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#totalAmount{
+    background-color: rgb(95, 237, 95);
+    font-weight: bold;
+}
+#reset{
+    background-color: rgb(237, 95, 95);
+    font-weight: bold;
+}
+#result{
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+}
